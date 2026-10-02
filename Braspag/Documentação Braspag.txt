@@ -1,0 +1,5 @@
+Segue abaixo a documentação dos produtos Braspag:
+Sobre a API - https://docs.cielo.com.br/gateway/reference/gateway-api
+Sobre o Gateway de Pagamento - https://docs.cielo.com.br/gateway/docs/gateway
+Portal de desenvolvedores da Cielo - https://docs.cielo.com.br/
+Inventário - https://claude.ai/artifact/F1qNvxFZCxpXWdFrFboHXJ
